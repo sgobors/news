@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+node_modules/
+logs/
+node_modules/*

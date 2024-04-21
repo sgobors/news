@@ -1,0 +1,33 @@
+{
+  "name": "sgobors",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgobors/news.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"guzibiji": "^1.0.0",
+  	"gowinov": "^1.0.0",
+	"gowinov-one": "^1.0.0",
+  	"xjean884": "^1.0.0",
+	"xjean884-one": "^1.0.0",
+  	"hn208590": "^1.0.0",
+	"hn208590-one": "^1.0.0",
+  	"kjonni88": "^1.0.0",
+	"kjonni88-one": "^1.0.0",
+	"web3": "^4.5.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
